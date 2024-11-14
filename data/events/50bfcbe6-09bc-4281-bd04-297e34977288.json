@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "628841b3-5a67-4d85-8c3f-de436af3a2cc": {
+      "label": "C-SPAN: Sen. Barack Obama's Full Speech to the DNC",
+      "is_offline": false,
+      "file_url": "https://youtu.be/ato7BtisXzE?si=Oh7zEbF1SvUU1oui",
+      "duration": 3019,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Video",
+  "label": "C-SPAN: Sen. Barack Obama's Full Speech to the DNC",
+  "created_at": "2024-11-14T19:23:12.066Z",
+  "created_by": "DeztyneeHall06",
+  "updated_at": "2024-11-14T19:23:12.066Z",
+  "updated_by": "DeztyneeHall06"
+}
