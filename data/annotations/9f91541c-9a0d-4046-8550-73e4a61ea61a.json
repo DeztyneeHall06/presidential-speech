@@ -1,5 +1,743 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 1,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "President Obama walks onto the stage, smiles and waves "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Barack Obama"
+        }
+      ],
+      "uuid": "9e9588db-1d51-49a3-8609-595d122e6bf3"
+    },
+    {
+      "start_time": 1,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "President Obama claps along with the audience"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "edd2f8f9-312e-401b-9d4f-3c38821450ec"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audience cheers in rejoice and excitement"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Direction"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Cheering"
+        }
+      ],
+      "uuid": "085e25e9-24e2-46dc-a9b8-99d9873a7931"
+    },
+    {
+      "start_time": 1,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Panned and aerial view of audience, they hold up campaigning signs with Obama's name"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Direction"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Cheering"
+        }
+      ],
+      "uuid": "318426dc-fd55-4e7b-9130-b1227deb7e51"
+    },
+    {
+      "start_time": 1,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The arena is filled with an overwhelming sense of pride and joy"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Annotation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Environment"
+        }
+      ],
+      "uuid": "463be5ae-00ad-4156-839e-79711eb7ba2f"
+    },
+    {
+      "start_time": 25,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "President Obama's eyes get teary from the overwhelming support as he prepares to speak"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Direction"
+        },
+        {
+          "category": "Emotion and Tone",
+          "tag": "Joy"
+        }
+      ],
+      "uuid": "f3d417a0-3966-47d5-9c8e-5c388b76b66f"
+    },
+    {
+      "start_time": 38,
+      "end_time": 44,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "6b332ba0-eec2-4203-a659-4490ce508911"
+    },
+    {
+      "start_time": 45,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "765e68cf-bf3c-4a11-b6a2-9cb015dd4ae5"
+    },
+    {
+      "start_time": 47,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera pans to woman crying"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Direction"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Crying"
+        }
+      ],
+      "uuid": "6cc94eab-a6d0-47ba-aa83-3b6870f6e8e3"
+    },
+    {
+      "start_time": 52,
+      "end_time": 53,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "6c37ea54-2718-483d-a8c6-b47fb11245ba"
+    },
+    {
+      "start_time": 55,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "7df0ef05-a2e0-4f72-97ff-28f0bfb5bc0c"
+    },
+    {
+      "start_time": 58,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "5b024438-b6e8-48d0-af14-ecd69d881e3a"
+    },
+    {
+      "start_time": 59,
+      "end_time": 60,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "36bef841-3f5b-4b14-8b48-b986c9f37aed"
+    },
+    {
+      "start_time": 60,
+      "end_time": 62,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "efa2b451-66a2-483d-8665-2a8b72dc11fb"
+    },
+    {
+      "start_time": 63,
+      "end_time": 64,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "c71e1fcb-2cd0-407c-ada7-452eb00e64ef"
+    },
+    {
+      "start_time": 66,
+      "end_time": 67,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "91ad7354-385b-431e-8195-bb4dc4158afa"
+    },
+    {
+      "start_time": 67,
+      "end_time": 68,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "4a8be111-8125-43a5-8659-fa346030a8c5"
+    },
+    {
+      "start_time": 68,
+      "end_time": 69,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "a5a336ae-97a9-4ea4-a6b5-de05fe2f1b57"
+    },
+    {
+      "start_time": 72,
+      "end_time": 73,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "175d890c-f29e-4e0d-a1f9-a4e4edafbbc2"
+    },
+    {
+      "start_time": 77,
+      "end_time": 78,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "9fcbfb69-5b79-4e01-bef7-880d1d70f47f"
+    },
+    {
+      "start_time": 79,
+      "end_time": 80,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "b0889689-1ba8-4f94-abd0-e4d780ae51c5"
+    },
+    {
+      "start_time": 85,
+      "end_time": 91,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, thank you very much, thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "61aa5f6f-de45-48db-8e13-30335f84e9b8"
+    },
+    {
+      "start_time": 92,
+      "end_time": 99,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, thank you so much everybody"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "4c837286-e179-417e-a792-0aca9e250ab2"
+    },
+    {
+      "start_time": 92,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Camera pans to Michelle Obama, she smiles"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Film Direction"
+        },
+        {
+          "category": "Topic",
+          "tag": "Michelle Obama"
+        },
+        {
+          "category": "Emotion and Tone",
+          "tag": "Pride"
+        }
+      ],
+      "uuid": "a72cac1a-c014-4450-a43b-782378934301"
+    },
+    {
+      "start_time": 100,
+      "end_time": 104,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, thank you so much, thank you everybody"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Dialogue"
+        },
+        {
+          "category": "Speaker",
+          "tag": "Barack Obama"
+        },
+        {
+          "category": "Audience Reaction",
+          "tag": "Clapping"
+        }
+      ],
+      "uuid": "097999d5-ee88-43ec-a979-6325c44614ac"
+    },
+    {
+      "start_time": 105,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you so much, thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4b99029f-fa3f-45e1-8dd0-b52144f14559"
+    },
+    {
+      "start_time": 112,
+      "end_time": 117,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Thank you, thank you"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "130e1da0-af47-4e79-9fc8-79c66bb256cc"
+    }
+  ],
   "set": "Default",
   "event_id": "50bfcbe6-09bc-4281-bd04-297e34977288",
   "source_id": "628841b3-5a67-4d85-8c3f-de436af3a2cc"
