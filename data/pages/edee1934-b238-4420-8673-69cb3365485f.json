@@ -1,0 +1,50 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event-comparison",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "event1": {
+        "uuid": "5096b548-b435-4a05-80d0-9959dd7b2d87"
+      },
+      "event2": {
+        "uuid": "50bfcbe6-09bc-4281-bd04-297e34977288"
+      },
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "title": "Presidential Nomination Speeches: Obama v. McCain",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "presidential-nomination-speeches-obama-v-mc",
+  "created_at": "2024-11-19T19:47:33.649Z",
+  "created_by": "DeztyneeHall06",
+  "updated_at": "2024-11-19T19:47:33.649Z",
+  "updated_by": "DeztyneeHall06"
+}
