@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "abb9f00a-ff03-4669-9ac2-347b8704bf62": {
+      "label": "McCain's Acceptance as the Republican Candidate for the 2008 Presidential Election",
+      "is_offline": false,
+      "file_url": "https://youtu.be/PK-HFCId8_M?si=jsKnE7tu4l_WMrN_",
+      "duration": 225,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "McCain's Acceptance as the Republican candidate for the 2008 Presidential Election",
+  "created_at": "2025-01-13T05:05:11.401Z",
+  "created_by": "DeztyneeHall06",
+  "updated_at": "2025-01-13T05:05:11.401Z",
+  "updated_by": "DeztyneeHall06"
+}
