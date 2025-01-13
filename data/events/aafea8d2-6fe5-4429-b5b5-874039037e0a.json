@@ -1,0 +1,29 @@
+{
+  "audiovisual_files": {
+    "7c0462fb-011c-4f2c-861e-ce35f43741ae": {
+      "label": "Obama's Acceptance as the Democratic candidate for the 2008 Presidential Election",
+      "is_offline": false,
+      "file_url": "https://youtu.be/ato7BtisXzE?si=7r1mwX5gfo6pzSJZ",
+      "duration": 189,
+      "caption_set": []
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "citation": "",
+  "item_type": "Audio",
+  "label": "Obama's Acceptance as the Democratic candidate for the 2008 Presidential Election",
+  "created_at": "2025-01-13T04:55:21.260Z",
+  "created_by": "DeztyneeHall06",
+  "updated_at": "2025-01-13T04:55:21.260Z",
+  "updated_by": "DeztyneeHall06"
+}
